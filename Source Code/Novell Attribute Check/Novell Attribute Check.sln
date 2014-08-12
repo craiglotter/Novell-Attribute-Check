@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Novell Attribute Check", "Novell Attribute Check.csproj", "{A01634B0-05E9-4BE9-8635-23BB04C5D4EB}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A01634B0-05E9-4BE9-8635-23BB04C5D4EB}.Debug.ActiveCfg = Debug|.NET
+		{A01634B0-05E9-4BE9-8635-23BB04C5D4EB}.Debug.Build.0 = Debug|.NET
+		{A01634B0-05E9-4BE9-8635-23BB04C5D4EB}.Release.ActiveCfg = Release|.NET
+		{A01634B0-05E9-4BE9-8635-23BB04C5D4EB}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
